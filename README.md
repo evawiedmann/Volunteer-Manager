@@ -22,12 +22,6 @@ This application was made as part of a coding project for Eva Wiedmann, a studen
 ## Known Bugs
 * None
 
-<!-- ## Behavior Driven Development Specifications
-
-|Spec|Input|Output|
-|-|-|-|
-|||| -->
-
 ## References
 
 ## Support and contact details
